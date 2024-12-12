@@ -1,3 +1,7 @@
+# This repository is outdated and archived. The new version is here:
+
+[https://github.com/Madave94/kalphacv](https://github.com/Madave94/kalphacv)
+
 # Inter Annotator Agreement
 
 This is the code for evaluating Krippendorffs Alpha for object detection or instance segemantation as explained in our paper (see at the bottom)
